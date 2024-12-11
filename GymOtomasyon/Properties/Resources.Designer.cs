@@ -63,6 +63,16 @@ namespace GymOtomasyon.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap close_32px {
+            get {
+                object obj = ResourceManager.GetObject("close_32px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap customer {
             get {
                 object obj = ResourceManager.GetObject("customer", resourceCulture);
@@ -83,6 +93,16 @@ namespace GymOtomasyon.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap full_page_view_32px {
+            get {
+                object obj = ResourceManager.GetObject("full_page_view_32px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap gymwallpapaer {
             get {
                 object obj = ResourceManager.GetObject("gymwallpapaer", resourceCulture);
@@ -96,6 +116,26 @@ namespace GymOtomasyon.Properties {
         internal static System.Drawing.Bitmap kasiyer {
             get {
                 object obj = ResourceManager.GetObject("kasiyer", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap move_32px {
+            get {
+                object obj = ResourceManager.GetObject("move_32px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap subtract_32px {
+            get {
+                object obj = ResourceManager.GetObject("subtract_32px", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

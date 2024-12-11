@@ -118,16 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="gymwallpapaer" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gymwallpapaer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="subtract_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\subtract_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="customer" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\customer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="close_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\close_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="full_page_view_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\full_page_view_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="kasiyer" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\kasiyer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="customer1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\customer1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gymwallpapaer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gymwallpapaer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="move_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\move_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

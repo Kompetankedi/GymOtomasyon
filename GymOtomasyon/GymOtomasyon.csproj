@@ -33,11 +33,16 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Bunifu.Licensing, Version=3.2.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b" />
     <Reference Include="Bunifu.UI.WinForms.BunifuButton">
       <HintPath>..\..\..\..\Desktop\BunifuCrack-main\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
     </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGroupBox">
+      <HintPath>..\..\..\..\Desktop\BunifuCrack-main\Bunifu.UI.WinForms.BunifuGroupBox.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -96,6 +101,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\customer1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\full_page_view_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\subtract_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\move_32px.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
